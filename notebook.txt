@@ -1,0 +1,2 @@
+2024-06-09 System.out.println("Завершение работы Windows...");
+2024-06-09 while (!command.equals("#exit")) {
